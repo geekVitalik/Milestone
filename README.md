@@ -1,10 +1,17 @@
 # Milestone
 First serious project. It uses java to access databases.
 
-Первые шаги:
+РџРµСЂРІС‹Рµ С€Р°РіРё:
 
-1) Определить какую бд использовать.
-2) Определить как подключатся к бд.
+1) Р’С‹Р±СЂР°РЅР° Р±Рґ Postgresql(РЈСЂР°Р°!)
 
-Ссылки тут :
-https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git - ссылка если кто гит подзабыл
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads - СЃСЃС‹Р»РєР° РґР»СЏ СЃРєР°С‡РёРІР°РЅРёСЏ ver 11 x64
+
+https://support.plesk.com/hc/en-us/articles/115003321434-How-to-enable-remote-access-to-PostgreSQL-server- - СЃСЃС‹Р»РєР° РґР»СЏ РњР°РєСЃР°
+psql -h hostname -U username -d database - РєРѕРЅРЅРµРєС‚ Рє Р±Р°Р·Рµ РґР°РЅРЅС‹С… (РєР°Рє Р”РµСЂР±Р°РЅ СѓС‡РёР»)
+
+
+2) РћРїСЂРµРґРµР»РёС‚СЊ РєР°Рє РїРѕРґРєР»СЋС‡Р°С‚СЃСЏ Рє Р±Рґ.
+
+РЎСЃС‹Р»РєРё С‚СѓС‚ :
+https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git - СЃСЃС‹Р»РєР° РµСЃР»Рё РєС‚Рѕ РіРёС‚ РїРѕРґР·Р°Р±С‹Р»

@@ -12,6 +12,7 @@ https://support.plesk.com/hc/en-us/articles/115003321434-How-to-enable-remote-ac
 
 psql -h hostname -U username -d database - коннект к базе данных (как Дербан учил)
 
+3) Определить что за данные будут храниться в бд, схема бд , типы данных
 
 2) Определить как подключатся к бд.
 

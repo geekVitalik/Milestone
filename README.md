@@ -8,6 +8,8 @@ First serious project. It uses java to access databases.
 https://www.enterprisedb.com/downloads/postgres-postgresql-downloads - ссылка для скачивания ver 11 x64
 
 https://support.plesk.com/hc/en-us/articles/115003321434-How-to-enable-remote-access-to-PostgreSQL-server- - ссылка для Макса
+
+
 psql -h hostname -U username -d database - коннект к базе данных (как Дербан учил)
 
 
